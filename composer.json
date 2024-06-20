@@ -1,0 +1,5 @@
+{
+  "require": {
+    "predis/predis": "^v2.2.2"
+  }
+}
